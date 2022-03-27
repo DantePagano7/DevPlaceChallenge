@@ -1,0 +1,16 @@
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\DevPlace challenge POO.exe
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\DevPlace challenge POO.deps.json
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\DevPlace challenge POO.runtimeconfig.json
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\DevPlace challenge POO.runtimeconfig.dev.json
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\DevPlace challenge POO.dll
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\ref\DevPlace challenge POO.dll
+E:\WorkSpace\DevPlace\DevPlace challenge POO\bin\Debug\net5.0\DevPlace challenge POO.pdb
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.csproj.AssemblyReference.cache
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.AssemblyInfoInputs.cache
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.AssemblyInfo.cs
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.dll
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\ref\DevPlace challenge POO.dll
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.pdb
+E:\WorkSpace\DevPlace\DevPlace challenge POO\obj\Debug\net5.0\DevPlace challenge POO.genruntimeconfig.cache
