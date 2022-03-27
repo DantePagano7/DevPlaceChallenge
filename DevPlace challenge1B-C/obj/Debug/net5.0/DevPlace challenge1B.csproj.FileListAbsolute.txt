@@ -1,0 +1,16 @@
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\DevPlace challenge1B.exe
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\DevPlace challenge1B.deps.json
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\DevPlace challenge1B.runtimeconfig.json
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\DevPlace challenge1B.runtimeconfig.dev.json
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\DevPlace challenge1B.dll
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\ref\DevPlace challenge1B.dll
+E:\WorkSpace\DevPlace\DevPlace challenge1B\bin\Debug\net5.0\DevPlace challenge1B.pdb
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.csproj.AssemblyReference.cache
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.AssemblyInfoInputs.cache
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.AssemblyInfo.cs
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.dll
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\ref\DevPlace challenge1B.dll
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.pdb
+E:\WorkSpace\DevPlace\DevPlace challenge1B\obj\Debug\net5.0\DevPlace challenge1B.genruntimeconfig.cache
