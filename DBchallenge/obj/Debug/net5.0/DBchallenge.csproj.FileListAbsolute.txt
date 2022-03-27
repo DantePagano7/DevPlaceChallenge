@@ -1,0 +1,16 @@
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\DBchallenge.exe
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\DBchallenge.deps.json
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\DBchallenge.runtimeconfig.json
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\DBchallenge.runtimeconfig.dev.json
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\DBchallenge.dll
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\ref\DBchallenge.dll
+E:\WorkSpace\DevPlace\DBchallenge\bin\Debug\net5.0\DBchallenge.pdb
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.csproj.AssemblyReference.cache
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.AssemblyInfoInputs.cache
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.AssemblyInfo.cs
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.dll
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\ref\DBchallenge.dll
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.pdb
+E:\WorkSpace\DevPlace\DBchallenge\obj\Debug\net5.0\DBchallenge.genruntimeconfig.cache
